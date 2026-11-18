@@ -1,0 +1,870 @@
+district,sector,licenses
+Manama 6,F&B,1
+Manama 6,retail,11
+Manama 6,trading,29
+Manama 6,construction,155
+Manama 6,personal services,59
+Manama 6,auto services,6
+Manama 6,professional services,13
+Manama 6,tech,0
+Manama 6,real estate,7
+Manama 6,tourism,0
+Manama 6,manufacturing,4
+Manama 7,F&B,1
+Manama 7,retail,19
+Manama 7,trading,12
+Manama 7,construction,44
+Manama 7,personal services,26
+Manama 7,auto services,0
+Manama 7,professional services,8
+Manama 7,tech,12
+Manama 7,real estate,4
+Manama 7,tourism,0
+Manama 7,manufacturing,1
+Manama 12,F&B,0
+Manama 12,retail,1
+Manama 12,trading,0
+Manama 12,construction,0
+Manama 12,personal services,0
+Manama 12,auto services,0
+Manama 12,professional services,1
+Manama 12,tech,0
+Manama 12,real estate,0
+Manama 12,tourism,0
+Manama 12,manufacturing,0
+Manama 3,F&B,0
+Manama 3,retail,0
+Manama 3,trading,0
+Manama 3,construction,0
+Manama 3,personal services,1
+Manama 3,auto services,0
+Manama 3,professional services,0
+Manama 3,tech,0
+Manama 3,real estate,0
+Manama 3,tourism,0
+Manama 3,manufacturing,0
+Al Helio 1,F&B,17
+Al Helio 1,retail,22
+Al Helio 1,trading,15
+Al Helio 1,construction,12
+Al Helio 1,personal services,20
+Al Helio 1,auto services,1
+Al Helio 1,professional services,9
+Al Helio 1,tech,1
+Al Helio 1,real estate,1
+Al Helio 1,tourism,1
+Al Helio 1,manufacturing,1
+Bahya,F&B,7
+Bahya,retail,9
+Bahya,trading,23
+Bahya,construction,10
+Bahya,personal services,19
+Bahya,auto services,1
+Bahya,professional services,12
+Bahya,tech,2
+Bahya,real estate,0
+Bahya,tourism,1
+Bahya,manufacturing,27
+Jurf Industrial 3,F&B,43
+Jurf Industrial 3,retail,79
+Jurf Industrial 3,trading,115
+Jurf Industrial 3,construction,126
+Jurf Industrial 3,personal services,75
+Jurf Industrial 3,auto services,90
+Jurf Industrial 3,professional services,40
+Jurf Industrial 3,tech,20
+Jurf Industrial 3,real estate,14
+Jurf Industrial 3,tourism,3
+Jurf Industrial 3,manufacturing,34
+Aamra,F&B,18
+Aamra,retail,31
+Aamra,trading,6
+Aamra,construction,11
+Aamra,personal services,31
+Aamra,auto services,7
+Aamra,professional services,6
+Aamra,tech,3
+Aamra,real estate,15
+Aamra,tourism,0
+Aamra,manufacturing,1
+Ragayeb 2,F&B,18
+Ragayeb 2,retail,20
+Ragayeb 2,trading,3
+Ragayeb 2,construction,4
+Ragayeb 2,personal services,17
+Ragayeb 2,auto services,3
+Ragayeb 2,professional services,0
+Ragayeb 2,tech,0
+Ragayeb 2,real estate,0
+Ragayeb 2,tourism,0
+Ragayeb 2,manufacturing,1
+Humaideya 2,F&B,62
+Humaideya 2,retail,61
+Humaideya 2,trading,10
+Humaideya 2,construction,5
+Humaideya 2,personal services,57
+Humaideya 2,auto services,3
+Humaideya 2,professional services,13
+Humaideya 2,tech,4
+Humaideya 2,real estate,0
+Humaideya 2,tourism,2
+Humaideya 2,manufacturing,5
+Jurf 1,F&B,67
+Jurf 1,retail,105
+Jurf 1,trading,18
+Jurf 1,construction,9
+Jurf 1,personal services,83
+Jurf 1,auto services,3
+Jurf 1,professional services,17
+Jurf 1,tech,6
+Jurf 1,real estate,5
+Jurf 1,tourism,0
+Jurf 1,manufacturing,4
+Tallah 2,F&B,33
+Tallah 2,retail,50
+Tallah 2,trading,10
+Tallah 2,construction,6
+Tallah 2,personal services,36
+Tallah 2,auto services,3
+Tallah 2,professional services,10
+Tallah 2,tech,3
+Tallah 2,real estate,0
+Tallah 2,tourism,0
+Tallah 2,manufacturing,3
+Safia,F&B,20
+Safia,retail,12
+Safia,trading,6
+Safia,construction,0
+Safia,personal services,19
+Safia,auto services,1
+Safia,professional services,5
+Safia,tech,0
+Safia,real estate,2
+Safia,tourism,1
+Safia,manufacturing,0
+Mowaihat 1,F&B,32
+Mowaihat 1,retail,126
+Mowaihat 1,trading,38
+Mowaihat 1,construction,20
+Mowaihat 1,personal services,120
+Mowaihat 1,auto services,22
+Mowaihat 1,professional services,16
+Mowaihat 1,tech,4
+Mowaihat 1,real estate,17
+Mowaihat 1,tourism,1
+Mowaihat 1,manufacturing,6
+Ajman Industrial 2,F&B,120
+Ajman Industrial 2,retail,595
+Ajman Industrial 2,trading,642
+Ajman Industrial 2,construction,270
+Ajman Industrial 2,personal services,448
+Ajman Industrial 2,auto services,571
+Ajman Industrial 2,professional services,108
+Ajman Industrial 2,tech,39
+Ajman Industrial 2,real estate,17
+Ajman Industrial 2,tourism,14
+Ajman Industrial 2,manufacturing,208
+Nuaimeya 1,F&B,149
+Nuaimeya 1,retail,319
+Nuaimeya 1,trading,100
+Nuaimeya 1,construction,78
+Nuaimeya 1,personal services,145
+Nuaimeya 1,auto services,17
+Nuaimeya 1,professional services,63
+Nuaimeya 1,tech,9
+Nuaimeya 1,real estate,24
+Nuaimeya 1,tourism,14
+Nuaimeya 1,manufacturing,11
+Liwara 2,F&B,30
+Liwara 2,retail,102
+Liwara 2,trading,36
+Liwara 2,construction,24
+Liwara 2,personal services,71
+Liwara 2,auto services,7
+Liwara 2,professional services,38
+Liwara 2,tech,12
+Liwara 2,real estate,3
+Liwara 2,tourism,6
+Liwara 2,manufacturing,2
+Rumaila 3,F&B,2
+Rumaila 3,retail,15
+Rumaila 3,trading,2
+Rumaila 3,construction,0
+Rumaila 3,personal services,12
+Rumaila 3,auto services,0
+Rumaila 3,professional services,7
+Rumaila 3,tech,0
+Rumaila 3,real estate,6
+Rumaila 3,tourism,0
+Rumaila 3,manufacturing,0
+Manama 14,F&B,0
+Manama 14,retail,5
+Manama 14,trading,2
+Manama 14,construction,2
+Manama 14,personal services,7
+Manama 14,auto services,5
+Manama 14,professional services,0
+Manama 14,tech,0
+Manama 14,real estate,1
+Manama 14,tourism,1
+Manama 14,manufacturing,0
+Masfout 14,F&B,2
+Masfout 14,retail,2
+Masfout 14,trading,5
+Masfout 14,construction,38
+Masfout 14,personal services,10
+Masfout 14,auto services,6
+Masfout 14,professional services,7
+Masfout 14,tech,0
+Masfout 14,real estate,0
+Masfout 14,tourism,0
+Masfout 14,manufacturing,4
+Masfout 15,F&B,8
+Masfout 15,retail,0
+Masfout 15,trading,0
+Masfout 15,construction,0
+Masfout 15,personal services,0
+Masfout 15,auto services,0
+Masfout 15,professional services,0
+Masfout 15,tech,0
+Masfout 15,real estate,0
+Masfout 15,tourism,0
+Masfout 15,manufacturing,0
+Masfout 13,F&B,4
+Masfout 13,retail,7
+Masfout 13,trading,3
+Masfout 13,construction,29
+Masfout 13,personal services,24
+Masfout 13,auto services,2
+Masfout 13,professional services,3
+Masfout 13,tech,0
+Masfout 13,real estate,0
+Masfout 13,tourism,1
+Masfout 13,manufacturing,3
+Masfout 8,F&B,20
+Masfout 8,retail,43
+Masfout 8,trading,41
+Masfout 8,construction,498
+Masfout 8,personal services,176
+Masfout 8,auto services,11
+Masfout 8,professional services,33
+Masfout 8,tech,7
+Masfout 8,real estate,15
+Masfout 8,tourism,0
+Masfout 8,manufacturing,21
+Masfout 1,F&B,15
+Masfout 1,retail,41
+Masfout 1,trading,80
+Masfout 1,construction,304
+Masfout 1,personal services,123
+Masfout 1,auto services,15
+Masfout 1,professional services,34
+Masfout 1,tech,7
+Masfout 1,real estate,17
+Masfout 1,tourism,1
+Masfout 1,manufacturing,23
+Nakheel 2,F&B,51
+Nakheel 2,retail,131
+Nakheel 2,trading,92
+Nakheel 2,construction,216
+Nakheel 2,personal services,128
+Nakheel 2,auto services,30
+Nakheel 2,professional services,118
+Nakheel 2,tech,54
+Nakheel 2,real estate,65
+Nakheel 2,tourism,5
+Nakheel 2,manufacturing,34
+Manama 13,F&B,1
+Manama 13,retail,1
+Manama 13,trading,0
+Manama 13,construction,0
+Manama 13,personal services,0
+Manama 13,auto services,0
+Manama 13,professional services,0
+Manama 13,tech,0
+Manama 13,real estate,0
+Manama 13,tourism,0
+Manama 13,manufacturing,0
+Manama 15,F&B,8
+Manama 15,retail,20
+Manama 15,trading,13
+Manama 15,construction,57
+Manama 15,personal services,13
+Manama 15,auto services,8
+Manama 15,professional services,5
+Manama 15,tech,1
+Manama 15,real estate,8
+Manama 15,tourism,0
+Manama 15,manufacturing,8
+Manama 11,F&B,1
+Manama 11,retail,8
+Manama 11,trading,3
+Manama 11,construction,0
+Manama 11,personal services,1
+Manama 11,auto services,0
+Manama 11,professional services,0
+Manama 11,tech,0
+Manama 11,real estate,0
+Manama 11,tourism,0
+Manama 11,manufacturing,0
+Manama 10,F&B,2
+Manama 10,retail,0
+Manama 10,trading,0
+Manama 10,construction,0
+Manama 10,personal services,0
+Manama 10,auto services,0
+Manama 10,professional services,0
+Manama 10,tech,0
+Manama 10,real estate,0
+Manama 10,tourism,0
+Manama 10,manufacturing,0
+Manama 9,F&B,0
+Manama 9,retail,0
+Manama 9,trading,0
+Manama 9,construction,0
+Manama 9,personal services,0
+Manama 9,auto services,0
+Manama 9,professional services,0
+Manama 9,tech,0
+Manama 9,real estate,0
+Manama 9,tourism,0
+Manama 9,manufacturing,0
+Manama 5,F&B,0
+Manama 5,retail,8
+Manama 5,trading,20
+Manama 5,construction,30
+Manama 5,personal services,10
+Manama 5,auto services,4
+Manama 5,professional services,8
+Manama 5,tech,0
+Manama 5,real estate,0
+Manama 5,tourism,0
+Manama 5,manufacturing,4
+Jurf Industrial 2,F&B,81
+Jurf Industrial 2,retail,177
+Jurf Industrial 2,trading,263
+Jurf Industrial 2,construction,171
+Jurf Industrial 2,personal services,88
+Jurf Industrial 2,auto services,111
+Jurf Industrial 2,professional services,62
+Jurf Industrial 2,tech,17
+Jurf Industrial 2,real estate,1
+Jurf Industrial 2,tourism,4
+Jurf Industrial 2,manufacturing,159
+Al Helio 2,F&B,36
+Al Helio 2,retail,43
+Al Helio 2,trading,25
+Al Helio 2,construction,27
+Al Helio 2,personal services,22
+Al Helio 2,auto services,4
+Al Helio 2,professional services,12
+Al Helio 2,tech,5
+Al Helio 2,real estate,7
+Al Helio 2,tourism,0
+Al Helio 2,manufacturing,4
+Mohammed Bin Zayed 1,F&B,10
+Mohammed Bin Zayed 1,retail,8
+Mohammed Bin Zayed 1,trading,1
+Mohammed Bin Zayed 1,construction,0
+Mohammed Bin Zayed 1,personal services,4
+Mohammed Bin Zayed 1,auto services,0
+Mohammed Bin Zayed 1,professional services,2
+Mohammed Bin Zayed 1,tech,2
+Mohammed Bin Zayed 1,real estate,0
+Mohammed Bin Zayed 1,tourism,0
+Mohammed Bin Zayed 1,manufacturing,0
+Tallah 1,F&B,1
+Tallah 1,retail,0
+Tallah 1,trading,0
+Tallah 1,construction,0
+Tallah 1,personal services,1
+Tallah 1,auto services,0
+Tallah 1,professional services,0
+Tallah 1,tech,0
+Tallah 1,real estate,0
+Tallah 1,tourism,0
+Tallah 1,manufacturing,0
+Jurf 2,F&B,191
+Jurf 2,retail,356
+Jurf 2,trading,114
+Jurf 2,construction,143
+Jurf 2,personal services,195
+Jurf 2,auto services,88
+Jurf 2,professional services,140
+Jurf 2,tech,17
+Jurf 2,real estate,57
+Jurf 2,tourism,8
+Jurf 2,manufacturing,66
+Rawdha 2,F&B,89
+Rawdha 2,retail,251
+Rawdha 2,trading,135
+Rawdha 2,construction,217
+Rawdha 2,personal services,347
+Rawdha 2,auto services,52
+Rawdha 2,professional services,77
+Rawdha 2,tech,8
+Rawdha 2,real estate,22
+Rawdha 2,tourism,5
+Rawdha 2,manufacturing,16
+Mowaihat 2,F&B,74
+Mowaihat 2,retail,117
+Mowaihat 2,trading,47
+Mowaihat 2,construction,49
+Mowaihat 2,personal services,90
+Mowaihat 2,auto services,22
+Mowaihat 2,professional services,23
+Mowaihat 2,tech,13
+Mowaihat 2,real estate,29
+Mowaihat 2,tourism,1
+Mowaihat 2,manufacturing,9
+Rawdha 3,F&B,95
+Rawdha 3,retail,285
+Rawdha 3,trading,138
+Rawdha 3,construction,65
+Rawdha 3,personal services,199
+Rawdha 3,auto services,43
+Rawdha 3,professional services,53
+Rawdha 3,tech,20
+Rawdha 3,real estate,35
+Rawdha 3,tourism,7
+Rawdha 3,manufacturing,19
+Ajman Industrial 1,F&B,75
+Ajman Industrial 1,retail,324
+Ajman Industrial 1,trading,270
+Ajman Industrial 1,construction,151
+Ajman Industrial 1,personal services,180
+Ajman Industrial 1,auto services,130
+Ajman Industrial 1,professional services,46
+Ajman Industrial 1,tech,19
+Ajman Industrial 1,real estate,10
+Ajman Industrial 1,tourism,7
+Ajman Industrial 1,manufacturing,154
+Mushairif,F&B,24
+Mushairif,retail,34
+Mushairif,trading,14
+Mushairif,construction,33
+Mushairif,personal services,58
+Mushairif,auto services,2
+Mushairif,professional services,26
+Mushairif,tech,3
+Mushairif,real estate,9
+Mushairif,tourism,2
+Mushairif,manufacturing,4
+Ajman Free Zone 2,F&B,0
+Ajman Free Zone 2,retail,0
+Ajman Free Zone 2,trading,0
+Ajman Free Zone 2,construction,0
+Ajman Free Zone 2,personal services,0
+Ajman Free Zone 2,auto services,0
+Ajman Free Zone 2,professional services,0
+Ajman Free Zone 2,tech,0
+Ajman Free Zone 2,real estate,0
+Ajman Free Zone 2,tourism,0
+Ajman Free Zone 2,manufacturing,0
+Nuaimeya 3,F&B,72
+Nuaimeya 3,retail,136
+Nuaimeya 3,trading,32
+Nuaimeya 3,construction,22
+Nuaimeya 3,personal services,79
+Nuaimeya 3,auto services,9
+Nuaimeya 3,professional services,29
+Nuaimeya 3,tech,8
+Nuaimeya 3,real estate,23
+Nuaimeya 3,tourism,2
+Nuaimeya 3,manufacturing,3
+Rashideya 2,F&B,52
+Rashideya 2,retail,131
+Rashideya 2,trading,64
+Rashideya 2,construction,75
+Rashideya 2,personal services,87
+Rashideya 2,auto services,13
+Rashideya 2,professional services,49
+Rashideya 2,tech,14
+Rashideya 2,real estate,27
+Rashideya 2,tourism,8
+Rashideya 2,manufacturing,5
+Rashideya 3,F&B,80
+Rashideya 3,retail,306
+Rashideya 3,trading,135
+Rashideya 3,construction,88
+Rashideya 3,personal services,168
+Rashideya 3,auto services,50
+Rashideya 3,professional services,142
+Rashideya 3,tech,59
+Rashideya 3,real estate,54
+Rashideya 3,tourism,20
+Rashideya 3,manufacturing,7
+Rumaila 2,F&B,24
+Rumaila 2,retail,36
+Rumaila 2,trading,47
+Rumaila 2,construction,99
+Rumaila 2,personal services,48
+Rumaila 2,auto services,11
+Rumaila 2,professional services,47
+Rumaila 2,tech,45
+Rumaila 2,real estate,14
+Rumaila 2,tourism,3
+Rumaila 2,manufacturing,7
+Masfout 12,F&B,2
+Masfout 12,retail,0
+Masfout 12,trading,0
+Masfout 12,construction,0
+Masfout 12,personal services,0
+Masfout 12,auto services,0
+Masfout 12,professional services,0
+Masfout 12,tech,0
+Masfout 12,real estate,0
+Masfout 12,tourism,0
+Masfout 12,manufacturing,0
+Masfout 6,F&B,0
+Masfout 6,retail,1
+Masfout 6,trading,1
+Masfout 6,construction,1
+Masfout 6,personal services,1
+Masfout 6,auto services,0
+Masfout 6,professional services,0
+Masfout 6,tech,0
+Masfout 6,real estate,0
+Masfout 6,tourism,0
+Masfout 6,manufacturing,0
+Masfout 10,F&B,0
+Masfout 10,retail,4
+Masfout 10,trading,6
+Masfout 10,construction,14
+Masfout 10,personal services,0
+Masfout 10,auto services,0
+Masfout 10,professional services,0
+Masfout 10,tech,0
+Masfout 10,real estate,0
+Masfout 10,tourism,0
+Masfout 10,manufacturing,2
+Masfout 4,F&B,1
+Masfout 4,retail,4
+Masfout 4,trading,0
+Masfout 4,construction,1
+Masfout 4,personal services,0
+Masfout 4,auto services,0
+Masfout 4,professional services,1
+Masfout 4,tech,0
+Masfout 4,real estate,0
+Masfout 4,tourism,0
+Masfout 4,manufacturing,0
+Masfout 7,F&B,33
+Masfout 7,retail,26
+Masfout 7,trading,19
+Masfout 7,construction,23
+Masfout 7,personal services,22
+Masfout 7,auto services,16
+Masfout 7,professional services,11
+Masfout 7,tech,0
+Masfout 7,real estate,0
+Masfout 7,tourism,1
+Masfout 7,manufacturing,4
+Manama 16,F&B,0
+Manama 16,retail,0
+Manama 16,trading,0
+Manama 16,construction,0
+Manama 16,personal services,0
+Manama 16,auto services,0
+Manama 16,professional services,0
+Manama 16,tech,0
+Manama 16,real estate,0
+Manama 16,tourism,0
+Manama 16,manufacturing,0
+Manama 1,F&B,0
+Manama 1,retail,0
+Manama 1,trading,2
+Manama 1,construction,0
+Manama 1,personal services,0
+Manama 1,auto services,0
+Manama 1,professional services,0
+Manama 1,tech,0
+Manama 1,real estate,0
+Manama 1,tourism,0
+Manama 1,manufacturing,0
+Manama 2,F&B,0
+Manama 2,retail,0
+Manama 2,trading,0
+Manama 2,construction,0
+Manama 2,personal services,0
+Manama 2,auto services,0
+Manama 2,professional services,0
+Manama 2,tech,0
+Manama 2,real estate,0
+Manama 2,tourism,0
+Manama 2,manufacturing,0
+Manama 4,F&B,0
+Manama 4,retail,0
+Manama 4,trading,0
+Manama 4,construction,0
+Manama 4,personal services,0
+Manama 4,auto services,0
+Manama 4,professional services,0
+Manama 4,tech,0
+Manama 4,real estate,0
+Manama 4,tourism,0
+Manama 4,manufacturing,0
+Manama 8,F&B,2
+Manama 8,retail,20
+Manama 8,trading,33
+Manama 8,construction,78
+Manama 8,personal services,89
+Manama 8,auto services,9
+Manama 8,professional services,11
+Manama 8,tech,0
+Manama 8,real estate,2
+Manama 8,tourism,0
+Manama 8,manufacturing,9
+Zahya,F&B,36
+Zahya,retail,48
+Zahya,trading,9
+Zahya,construction,36
+Zahya,personal services,47
+Zahya,auto services,5
+Zahya,professional services,9
+Zahya,tech,2
+Zahya,real estate,38
+Zahya,tourism,0
+Zahya,manufacturing,5
+Jurf Industrial 1,F&B,111
+Jurf Industrial 1,retail,488
+Jurf Industrial 1,trading,391
+Jurf Industrial 1,construction,262
+Jurf Industrial 1,personal services,146
+Jurf Industrial 1,auto services,246
+Jurf Industrial 1,professional services,40
+Jurf Industrial 1,tech,17
+Jurf Industrial 1,real estate,5
+Jurf Industrial 1,tourism,3
+Jurf Industrial 1,manufacturing,230
+Yasmeen,F&B,121
+Yasmeen,retail,225
+Yasmeen,trading,51
+Yasmeen,construction,70
+Yasmeen,personal services,155
+Yasmeen,auto services,48
+Yasmeen,professional services,20
+Yasmeen,tech,22
+Yasmeen,real estate,32
+Yasmeen,tourism,0
+Yasmeen,manufacturing,8
+Mohammed Bin Zayed 2,F&B,14
+Mohammed Bin Zayed 2,retail,10
+Mohammed Bin Zayed 2,trading,0
+Mohammed Bin Zayed 2,construction,0
+Mohammed Bin Zayed 2,personal services,39
+Mohammed Bin Zayed 2,auto services,13
+Mohammed Bin Zayed 2,professional services,0
+Mohammed Bin Zayed 2,tech,0
+Mohammed Bin Zayed 2,real estate,0
+Mohammed Bin Zayed 2,tourism,0
+Mohammed Bin Zayed 2,manufacturing,0
+Aalia,F&B,17
+Aalia,retail,64
+Aalia,trading,36
+Aalia,construction,61
+Aalia,personal services,87
+Aalia,auto services,13
+Aalia,professional services,37
+Aalia,tech,4
+Aalia,real estate,38
+Aalia,tourism,2
+Aalia,manufacturing,4
+Ragayeb 1,F&B,22
+Ragayeb 1,retail,61
+Ragayeb 1,trading,12
+Ragayeb 1,construction,4
+Ragayeb 1,personal services,41
+Ragayeb 1,auto services,7
+Ragayeb 1,professional services,5
+Ragayeb 1,tech,5
+Ragayeb 1,real estate,0
+Ragayeb 1,tourism,0
+Ragayeb 1,manufacturing,6
+Humaideya 1,F&B,121
+Humaideya 1,retail,277
+Humaideya 1,trading,88
+Humaideya 1,construction,28
+Humaideya 1,personal services,237
+Humaideya 1,auto services,26
+Humaideya 1,professional services,126
+Humaideya 1,tech,23
+Humaideya 1,real estate,27
+Humaideya 1,tourism,5
+Humaideya 1,manufacturing,21
+Zorah,F&B,2
+Zorah,retail,2
+Zorah,trading,0
+Zorah,construction,1
+Zorah,personal services,14
+Zorah,auto services,0
+Zorah,professional services,7
+Zorah,tech,0
+Zorah,real estate,1
+Zorah,tourism,0
+Zorah,manufacturing,1
+Rawdha 1,F&B,27
+Rawdha 1,retail,78
+Rawdha 1,trading,44
+Rawdha 1,construction,68
+Rawdha 1,personal services,90
+Rawdha 1,auto services,10
+Rawdha 1,professional services,43
+Rawdha 1,tech,6
+Rawdha 1,real estate,20
+Rawdha 1,tourism,2
+Rawdha 1,manufacturing,6
+Mowaihat 3,F&B,40
+Mowaihat 3,retail,84
+Mowaihat 3,trading,46
+Mowaihat 3,construction,40
+Mowaihat 3,personal services,92
+Mowaihat 3,auto services,41
+Mowaihat 3,professional services,30
+Mowaihat 3,tech,9
+Mowaihat 3,real estate,12
+Mowaihat 3,tourism,1
+Mowaihat 3,manufacturing,17
+Rashideya 1,F&B,117
+Rashideya 1,retail,226
+Rashideya 1,trading,129
+Rashideya 1,construction,71
+Rashideya 1,personal services,165
+Rashideya 1,auto services,50
+Rashideya 1,professional services,112
+Rashideya 1,tech,37
+Rashideya 1,real estate,39
+Rashideya 1,tourism,13
+Rashideya 1,manufacturing,4
+Nuaimeya 2,F&B,86
+Nuaimeya 2,retail,321
+Nuaimeya 2,trading,125
+Nuaimeya 2,construction,225
+Nuaimeya 2,personal services,181
+Nuaimeya 2,auto services,36
+Nuaimeya 2,professional services,119
+Nuaimeya 2,tech,37
+Nuaimeya 2,real estate,40
+Nuaimeya 2,tourism,15
+Nuaimeya 2,manufacturing,17
+Ajman Free Zone 1,F&B,0
+Ajman Free Zone 1,retail,0
+Ajman Free Zone 1,trading,0
+Ajman Free Zone 1,construction,0
+Ajman Free Zone 1,personal services,0
+Ajman Free Zone 1,auto services,0
+Ajman Free Zone 1,professional services,0
+Ajman Free Zone 1,tech,0
+Ajman Free Zone 1,real estate,0
+Ajman Free Zone 1,tourism,0
+Ajman Free Zone 1,manufacturing,0
+Liwara 1,F&B,69
+Liwara 1,retail,120
+Liwara 1,trading,57
+Liwara 1,construction,94
+Liwara 1,personal services,98
+Liwara 1,auto services,17
+Liwara 1,professional services,91
+Liwara 1,tech,17
+Liwara 1,real estate,23
+Liwara 1,tourism,10
+Liwara 1,manufacturing,12
+Nakheel 1,F&B,24
+Nakheel 1,retail,139
+Nakheel 1,trading,73
+Nakheel 1,construction,27
+Nakheel 1,personal services,139
+Nakheel 1,auto services,2
+Nakheel 1,professional services,29
+Nakheel 1,tech,22
+Nakheel 1,real estate,15
+Nakheel 1,tourism,11
+Nakheel 1,manufacturing,17
+Manama 17,F&B,0
+Manama 17,retail,0
+Manama 17,trading,0
+Manama 17,construction,0
+Manama 17,personal services,0
+Manama 17,auto services,0
+Manama 17,professional services,0
+Manama 17,tech,0
+Manama 17,real estate,0
+Manama 17,tourism,0
+Manama 17,manufacturing,0
+Masfout 9,F&B,1
+Masfout 9,retail,1
+Masfout 9,trading,0
+Masfout 9,construction,0
+Masfout 9,personal services,0
+Masfout 9,auto services,0
+Masfout 9,professional services,0
+Masfout 9,tech,0
+Masfout 9,real estate,1
+Masfout 9,tourism,0
+Masfout 9,manufacturing,1
+Masfout 11,F&B,3
+Masfout 11,retail,8
+Masfout 11,trading,0
+Masfout 11,construction,1
+Masfout 11,personal services,9
+Masfout 11,auto services,1
+Masfout 11,professional services,1
+Masfout 11,tech,0
+Masfout 11,real estate,0
+Masfout 11,tourism,0
+Masfout 11,manufacturing,0
+Masfout 5,F&B,0
+Masfout 5,retail,0
+Masfout 5,trading,0
+Masfout 5,construction,0
+Masfout 5,personal services,0
+Masfout 5,auto services,0
+Masfout 5,professional services,1
+Masfout 5,tech,0
+Masfout 5,real estate,0
+Masfout 5,tourism,0
+Masfout 5,manufacturing,0
+Masfout 2,F&B,2
+Masfout 2,retail,1
+Masfout 2,trading,5
+Masfout 2,construction,10
+Masfout 2,personal services,4
+Masfout 2,auto services,0
+Masfout 2,professional services,0
+Masfout 2,tech,0
+Masfout 2,real estate,0
+Masfout 2,tourism,1
+Masfout 2,manufacturing,0
+Masfout 16,F&B,0
+Masfout 16,retail,0
+Masfout 16,trading,0
+Masfout 16,construction,0
+Masfout 16,personal services,0
+Masfout 16,auto services,0
+Masfout 16,professional services,0
+Masfout 16,tech,0
+Masfout 16,real estate,0
+Masfout 16,tourism,0
+Masfout 16,manufacturing,0
+Masfout 3,F&B,26
+Masfout 3,retail,77
+Masfout 3,trading,113
+Masfout 3,construction,317
+Masfout 3,personal services,207
+Masfout 3,auto services,27
+Masfout 3,professional services,41
+Masfout 3,tech,10
+Masfout 3,real estate,3
+Masfout 3,tourism,0
+Masfout 3,manufacturing,12
+Rumaila 1,F&B,59
+Rumaila 1,retail,282
+Rumaila 1,trading,141
+Rumaila 1,construction,44
+Rumaila 1,personal services,161
+Rumaila 1,auto services,9
+Rumaila 1,professional services,55
+Rumaila 1,tech,26
+Rumaila 1,real estate,18
+Rumaila 1,tourism,13
+Rumaila 1,manufacturing,6

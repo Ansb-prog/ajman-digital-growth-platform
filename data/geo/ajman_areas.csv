@@ -1,0 +1,11 @@
+area,lat,lon,population_est,visitor_index,note
+Al Nuaimiya,25.3930,55.4520,140000,0.6,ESTIMATE - replace population/visitor index with Ajman Statistics Center data; verify centroid
+Al Rashidiya,25.4030,55.4330,90000,0.5,ESTIMATE - replace population/visitor index with Ajman Statistics Center data; verify centroid
+Al Jurf,25.4120,55.5020,70000,0.2,ESTIMATE - replace population/visitor index with Ajman Statistics Center data; verify centroid
+Al Rawda,25.3850,55.4750,45000,0.2,ESTIMATE - replace population/visitor index with Ajman Statistics Center data; verify centroid
+Al Mowaihat,25.3750,55.4950,60000,0.2,ESTIMATE - replace population/visitor index with Ajman Statistics Center data; verify centroid
+Al Hamidiya,25.4000,55.5150,55000,0.2,ESTIMATE - replace population/visitor index with Ajman Statistics Center data; verify centroid
+Ajman Industrial Area,25.3710,55.4700,50000,0.0,ESTIMATE - replace population/visitor index with Ajman Statistics Center data; verify centroid
+Al Zorah,25.4330,55.4830,8000,3.0,ESTIMATE - replace population/visitor index with Ajman Statistics Center data; verify centroid
+Masfout,24.8150,56.1050,15000,0.5,ESTIMATE - replace population/visitor index with Ajman Statistics Center data; verify centroid
+Manama,25.3300,56.0000,12000,0.1,ESTIMATE - replace population/visitor index with Ajman Statistics Center data; verify centroid

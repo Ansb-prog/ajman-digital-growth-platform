@@ -1,0 +1,60 @@
+{
+  "rising_sectors": [
+    "tourism",
+    "F&B",
+    "tech",
+    "professional services",
+    "real estate"
+  ],
+  "cooling_sectors": [
+    "manufacturing",
+    "trading",
+    "construction"
+  ],
+  "hotspot_districts": [
+    "Masfout 8",
+    "Manama 6",
+    "Zahya",
+    "Mohammed Bin Zayed 2",
+    "Aamra",
+    "Masfout 1",
+    "Aalia",
+    "Manama 8",
+    "Al Helio 2",
+    "Jurf 2",
+    "Tallah 2",
+    "Nakheel 2",
+    "Ragayeb 2",
+    "Mushairif",
+    "Masfout 14",
+    "Manama 7",
+    "Al Helio 1",
+    "Masfout 3",
+    "Rumaila 2",
+    "Zorah",
+    "Mowaihat 3",
+    "Yasmeen"
+  ],
+  "cooling_districts": [
+    "Rumaila 1",
+    "Rawdha 2",
+    "Ajman Industrial 1",
+    "Rashideya 3",
+    "Safia",
+    "Rawdha 1",
+    "Liwara 2",
+    "Jurf Industrial 1",
+    "Liwara 1",
+    "Rashideya 1",
+    "Rashideya 2",
+    "Rawdha 3",
+    "Ajman Industrial 2",
+    "Nuaimeya 2",
+    "Nuaimeya 1",
+    "Nuaimeya 3",
+    "Nakheel 1",
+    "Rumaila 3",
+    "Manama 14",
+    "Masfout 7"
+  ]
+}

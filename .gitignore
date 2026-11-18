@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+.env
+*.pyc
+.DS_Store
+# Files supplied privately by the hackathon organizers are not redistributed
+data/real/raw/*.xlsx

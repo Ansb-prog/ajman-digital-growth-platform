@@ -1,0 +1,27 @@
+{
+  "n_train": 5243,
+  "n_test": 25413,
+  "c_index_score": 0.7285302802773298,
+  "brier_12m": 0.0955746299076119,
+  "brier_12m_null": 0.11254606660523883,
+  "brier_36m": 0.07411938154278022,
+  "brier_36m_null": 0.09748679749257065,
+  "n_test_known_36m": 9337,
+  "auc36_xgboost": 0.7634732643329485,
+  "auc36_score": 0.7768792399752557,
+  "c_index_penalty_variant": 0.7268237295430764,
+  "lambda_penalty_variant": 0.55,
+  "gamma_reputation": -0.9885285493403152,
+  "gamma_digital": -2.200524115220666,
+  "gamma_saturation": 1.1507146515428823,
+  "rating_prior_mean": 3.920384304245025,
+  "digital_presence_weights": {
+    "Posting frequency": 0.381,
+    "Engaged audience (followers x engagement)": 0.443,
+    "Raw follower count": 0.0,
+    "Positive review volume": 0.105,
+    "Posting recency": 0.029,
+    "Has website": 0.042
+  },
+  "ph_violations_at_0.01": []
+}

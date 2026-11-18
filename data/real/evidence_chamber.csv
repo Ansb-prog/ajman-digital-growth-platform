@@ -1,0 +1,83 @@
+reg_year,license_type,members,cancelled_2023,late_renewal_2023,age_in_2023
+2009,Professional,402,2,21,14
+2009,Trade,425,10,15,14
+2022,Trade,2534,197,8,1
+2006,Industrial,48,1,0,17
+2022,Industrial,158,3,0,1
+2006,Professional,377,3,18,17
+2009,Industrial,26,1,0,14
+2005,Industrial,48,1,0,18
+2006,Trade,458,6,14,17
+2005,Trade,392,11,15,18
+2005,Professional,318,2,16,18
+2007,Industrial,49,0,1,16
+2007,Professional,351,2,17,16
+2011,Industrial,32,1,0,12
+2007,Trade,591,10,18,16
+2008,Freelance,1,0,0,15
+2010,Trade,546,12,14,13
+2008,Trade,497,8,25,15
+2013,Professional,377,11,15,10
+2008,Industrial,39,1,0,15
+2008,Professional,371,3,20,15
+2010,Professional,444,5,29,13
+2010,Industrial,26,0,0,13
+2011,Professional,457,8,23,12
+2011,Trade,455,13,15,12
+2011,Startup (Bedayat),1,0,1,12
+2012,Industrial,30,1,1,11
+2012,Trade,458,21,12,11
+2012,Professional,344,3,19,11
+2012,Startup (Bedayat),3,0,0,11
+2013,Trade,553,25,20,10
+2013,Industrial,24,0,0,10
+2013,Freelance,1,0,0,10
+2015,Professional,654,19,27,8
+2014,Professional,529,12,17,9
+2014,Industrial,43,1,1,9
+2014,Trade,767,36,19,9
+2013,Startup (Bedayat),1,0,1,10
+2014,Startup (Bedayat),3,0,2,9
+2016,Trade,1019,56,42,7
+2014,Freelance,2,0,1,9
+2016,Professional,734,21,26,7
+2015,Trade,874,46,30,8
+2015,Industrial,61,1,2,8
+2015,Freelance,2,0,0,8
+2015,Startup (Bedayat),4,1,1,8
+2016,Industrial,55,1,2,7
+2018,Trade,877,48,17,5
+2016,Freelance,3,0,0,7
+2016,Startup (Bedayat),2,0,1,7
+2017,Trade,942,45,30,6
+2022,Professional,2087,75,13,1
+2017,Professional,847,34,52,6
+2017,Industrial,45,0,1,6
+2018,Professional,882,18,43,5
+2019,Trade,1194,111,36,4
+2019,Startup (Bedayat),18,1,4,4
+2017,Freelance,2,0,1,6
+2019,Professional,999,31,48,4
+2020,Trade,1277,108,47,3
+2018,Industrial,72,2,4,5
+2019,Industrial,60,0,1,4
+2018,Startup (Bedayat),12,0,3,5
+2018,Freelance,2,0,0,5
+2020,Professional,932,45,49,3
+2009,Startup (Bedayat),1,0,0,14
+2019,Freelance,46,7,2,4
+2020,Industrial,57,1,2,3
+2022,Freelance,381,47,0,1
+2021,Trade,2217,220,60,2
+2021,Professional,1583,52,81,2
+2020,Freelance,281,68,17,3
+2020,Startup (Bedayat),11,3,0,3
+2021,Industrial,98,2,2,2
+2021,Freelance,348,58,4,2
+2023,Trade,3139,18,3,0
+2023,Professional,3205,8,1,0
+2021,Startup (Bedayat),1,0,0,2
+2023,Industrial,199,0,2,0
+2023,Startup (Bedayat),39,1,0,0
+2023,Freelance,169,4,0,0
+2024,Trade,1,0,0,-1

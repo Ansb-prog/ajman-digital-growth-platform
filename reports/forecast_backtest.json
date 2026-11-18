@@ -1,0 +1,45 @@
+{
+  "annual_backtest_origin": 2023,
+  "active_forecast": [
+    36646,
+    39885
+  ],
+  "active_actual": [
+    36728,
+    41316
+  ],
+  "active_mape_model": 0.018433070198232194,
+  "active_mape_naive_growth": 0.01875374806673955,
+  "new_forecast": [
+    6725,
+    7700
+  ],
+  "new_actual": [
+    6628,
+    7662
+  ],
+  "new_mape_model": 0.009766653720348732,
+  "new_mape_naive_last": 0.19775910145720668,
+  "exits_forecast": [
+    3692,
+    4460
+  ],
+  "exits_actual": [
+    3513,
+    3074
+  ],
+  "exits_mape_model": 0.2509436841911871,
+  "exits_mape_naive_last": 0.10213000101306033,
+  "exit_level_mid": 0.0248835896872208,
+  "new_growth_trend_pct": 18.202107600902593,
+  "monthly_backtest_months": 6,
+  "mape_ets": 0.24076419077735076,
+  "mape_ets_seasonal": 0.2690407357891345,
+  "mape_ensemble": 0.23278604235788383,
+  "ensemble_used": true,
+  "mape_naive_last": 0.29613155410321323,
+  "mape_naive_3m_avg": 0.22480789393841702,
+  "seasonal_used": false,
+  "next_12m_total": 10227.447122813355,
+  "last_12m_total": 9562.0
+}

@@ -1,0 +1,221 @@
+creator_id,type,home_district,specialty_1,specialty_2,monthly_fee_aed,rating,capacity,ajman_licensed,is_simulated
+CR-001,Agency,Rashideya 2,real estate,retail,5700,4.5,23,True,True
+CR-002,Freelancer,Rashideya 1,retail,tourism,2700,5.0,5,True,True
+CR-003,Freelancer,Aalia,retail,retail,2300,4.0,4,True,True
+CR-004,Freelancer,Nuaimeya 1,auto services,F&B,3400,4.6,4,True,True
+CR-005,Freelancer,Nakheel 2,retail,personal services,800,4.2,7,True,True
+CR-006,Freelancer,Mowaihat 3,personal services,retail,2400,4.6,3,True,True
+CR-007,Freelancer,Al Helio 1,professional services,professional services,1900,4.8,8,True,True
+CR-008,Freelancer,Humaideya 1,tech,trading,2600,4.5,8,True,True
+CR-009,Agency,Humaideya 1,real estate,tourism,6600,4.7,22,True,True
+CR-010,Agency,Ajman Industrial 1,professional services,real estate,8400,4.0,10,True,True
+CR-011,Freelancer,Nakheel 2,personal services,personal services,1900,4.8,4,True,True
+CR-012,Freelancer,Nakheel 2,real estate,F&B,3100,4.3,6,True,True
+CR-013,Agency,Liwara 2,auto services,F&B,4800,4.7,21,True,True
+CR-014,Agency,Rawdha 3,tech,trading,7800,4.6,14,True,True
+CR-015,Freelancer,Ajman Industrial 1,tech,personal services,4100,3.7,5,True,True
+CR-016,Freelancer,Nuaimeya 3,personal services,professional services,4300,4.3,3,True,True
+CR-017,Freelancer,Rumaila 1,real estate,F&B,1300,4.6,8,True,True
+CR-018,Freelancer,Ragayeb 1,personal services,real estate,2700,5.0,8,True,True
+CR-019,Freelancer,Rashideya 2,professional services,auto services,4500,4.6,4,True,True
+CR-020,Agency,Nakheel 1,tourism,auto services,5100,4.6,21,True,True
+CR-021,Freelancer,Nuaimeya 1,personal services,F&B,2600,4.1,8,True,True
+CR-022,Freelancer,Ajman Industrial 2,professional services,real estate,2300,4.9,4,True,True
+CR-023,Freelancer,Nuaimeya 3,personal services,tourism,2000,5.0,3,True,True
+CR-024,Freelancer,Aamra,tourism,professional services,2300,4.5,5,True,True
+CR-025,Freelancer,Jurf Industrial 3,auto services,F&B,2000,4.4,7,True,True
+CR-026,Freelancer,Ajman Industrial 1,tourism,tourism,3000,4.0,5,True,True
+CR-027,Freelancer,Ajman Industrial 1,auto services,auto services,2100,4.8,7,True,True
+CR-028,Freelancer,Rashideya 1,professional services,personal services,2100,5.0,4,True,True
+CR-029,Agency,Rashideya 2,personal services,personal services,4700,4.7,24,True,True
+CR-030,Freelancer,Ajman Industrial 1,tech,construction,2400,4.9,6,True,True
+CR-031,Freelancer,Ajman Industrial 1,F&B,tourism,1700,4.7,4,True,True
+CR-032,Freelancer,Nuaimeya 1,personal services,F&B,2300,4.2,7,True,True
+CR-033,Freelancer,Al Helio 1,auto services,personal services,3300,4.9,5,True,True
+CR-034,Freelancer,Nuaimeya 1,real estate,retail,2700,4.1,7,True,True
+CR-035,Freelancer,Rumaila 2,real estate,F&B,2900,4.4,7,True,True
+CR-036,Freelancer,Nuaimeya 1,tech,real estate,2700,4.6,7,True,True
+CR-037,Freelancer,Jurf 2,tech,construction,2500,4.8,3,True,True
+CR-038,Freelancer,Al Helio 1,real estate,real estate,2300,4.6,3,True,True
+CR-039,Freelancer,Humaideya 1,personal services,tech,2200,4.6,7,True,True
+CR-040,Freelancer,Mowaihat 1,retail,tourism,3100,4.3,4,True,True
+CR-041,Freelancer,Rumaila 3,tourism,real estate,1600,4.1,3,True,True
+CR-042,Freelancer,Mowaihat 3,tourism,professional services,3500,4.5,6,True,True
+CR-043,Freelancer,Ajman Industrial 1,personal services,real estate,2500,4.3,8,True,True
+CR-044,Freelancer,Humaideya 1,manufacturing,professional services,1900,4.1,7,True,True
+CR-045,Freelancer,Rashideya 2,tourism,real estate,2100,4.1,4,True,True
+CR-046,Freelancer,Yasmeen,personal services,retail,1900,4.4,5,True,True
+CR-047,Agency,Humaideya 2,tourism,real estate,8000,3.9,18,True,True
+CR-048,Freelancer,Mushairif,real estate,personal services,1900,4.1,5,True,True
+CR-049,Freelancer,Ajman Industrial 1,construction,retail,3400,4.0,6,True,True
+CR-050,Agency,Rawdha 1,trading,real estate,6700,4.6,24,True,True
+CR-051,Freelancer,Jurf 2,tourism,auto services,800,4.6,3,True,True
+CR-052,Freelancer,Nuaimeya 3,tourism,retail,1900,5.0,3,True,True
+CR-053,Freelancer,Aamra,auto services,real estate,800,4.1,8,True,True
+CR-054,Agency,Jurf 2,personal services,professional services,6500,4.3,20,True,True
+CR-055,Freelancer,Al Helio 2,tech,personal services,3300,4.8,7,True,True
+CR-056,Freelancer,Mowaihat 1,F&B,tourism,3000,4.4,4,True,True
+CR-057,Freelancer,Humaideya 1,auto services,tourism,1400,4.4,8,True,True
+CR-058,Freelancer,Jurf 2,tourism,real estate,1800,5.0,8,True,True
+CR-059,Freelancer,Liwara 1,personal services,tech,3900,4.4,8,True,True
+CR-060,Agency,Nuaimeya 3,retail,real estate,6700,4.2,15,True,True
+CR-061,Freelancer,Nuaimeya 3,personal services,F&B,2500,4.1,6,True,True
+CR-062,Freelancer,Rashideya 2,auto services,auto services,3300,4.6,3,True,True
+CR-063,Freelancer,Rashideya 3,auto services,trading,4400,4.6,4,True,True
+CR-064,Freelancer,Mowaihat 1,personal services,F&B,3500,4.1,5,True,True
+CR-065,Freelancer,Mowaihat 2,professional services,retail,2600,4.2,3,True,True
+CR-066,Freelancer,Nuaimeya 1,personal services,retail,2700,4.7,6,True,True
+CR-067,Freelancer,Rawdha 2,tourism,auto services,2900,4.7,4,True,True
+CR-068,Freelancer,Humaideya 2,real estate,trading,2000,4.3,3,True,True
+CR-069,Freelancer,Nuaimeya 2,retail,F&B,1600,4.7,6,True,True
+CR-070,Agency,Nuaimeya 1,tourism,tourism,4800,4.7,14,True,True
+CR-071,Freelancer,Rashideya 3,tech,retail,1700,4.0,8,True,True
+CR-072,Freelancer,Nakheel 2,professional services,personal services,2400,4.4,4,True,True
+CR-073,Freelancer,Mowaihat 3,F&B,trading,2500,4.6,7,True,True
+CR-074,Freelancer,Rashideya 3,professional services,F&B,4300,4.3,7,True,True
+CR-075,Freelancer,Mowaihat 1,auto services,retail,1800,3.9,7,True,True
+CR-076,Agency,Humaideya 1,personal services,personal services,8200,4.4,10,True,True
+CR-077,Agency,Nuaimeya 2,F&B,real estate,5800,4.7,14,True,True
+CR-078,Agency,Rashideya 1,tech,professional services,7100,5.0,13,True,True
+CR-079,Freelancer,Nuaimeya 3,retail,personal services,3300,3.8,6,True,True
+CR-080,Freelancer,Mowaihat 1,tech,retail,2100,5.0,4,True,True
+CR-081,Freelancer,Nuaimeya 1,tourism,tourism,1800,4.2,3,True,True
+CR-082,Freelancer,Rashideya 1,tech,manufacturing,1100,4.8,7,True,True
+CR-083,Freelancer,Nuaimeya 3,tourism,professional services,1700,4.9,3,True,True
+CR-084,Freelancer,Nuaimeya 1,personal services,F&B,2900,4.8,8,True,True
+CR-085,Freelancer,Mowaihat 3,real estate,auto services,2500,4.5,6,True,True
+CR-086,Freelancer,Rashideya 2,tech,tourism,1600,4.2,4,True,True
+CR-087,Freelancer,Nuaimeya 3,retail,professional services,2200,4.7,4,True,True
+CR-088,Freelancer,Jurf 2,construction,F&B,2500,4.3,3,True,True
+CR-089,Freelancer,Rawdha 2,tourism,auto services,2900,3.7,5,True,True
+CR-090,Agency,Nuaimeya 1,tourism,retail,6800,5.0,23,True,True
+CR-091,Freelancer,Jurf Industrial 3,retail,personal services,2200,4.7,4,True,True
+CR-092,Freelancer,Mowaihat 3,F&B,tech,1000,5.0,5,True,True
+CR-093,Freelancer,Ajman Industrial 1,personal services,personal services,1500,4.2,6,True,True
+CR-094,Freelancer,Nuaimeya 3,professional services,retail,3700,4.9,5,True,True
+CR-095,Freelancer,Al Helio 2,tech,retail,800,5.0,4,True,True
+CR-096,Agency,Yasmeen,retail,tourism,7700,5.0,12,True,True
+CR-097,Agency,Jurf Industrial 3,retail,F&B,6000,4.5,19,True,True
+CR-098,Freelancer,Jurf 2,tourism,retail,2200,4.1,5,True,True
+CR-099,Freelancer,Jurf Industrial 3,professional services,retail,1800,4.4,4,True,True
+CR-100,Freelancer,Tallah 2,personal services,personal services,2400,3.8,5,True,True
+CR-101,Agency,Nuaimeya 2,trading,tourism,5000,4.0,16,True,True
+CR-102,Freelancer,Rashideya 2,tech,real estate,2400,4.5,5,True,True
+CR-103,Freelancer,Mowaihat 2,real estate,tourism,900,4.2,3,True,True
+CR-104,Agency,Mushairif,professional services,F&B,7600,4.5,10,True,True
+CR-105,Agency,Mowaihat 3,professional services,tourism,6300,4.5,21,True,True
+CR-106,Freelancer,Jurf 2,tourism,professional services,2000,5.0,5,True,True
+CR-107,Freelancer,Nuaimeya 3,tourism,retail,2600,4.9,7,True,True
+CR-108,Agency,Rashideya 3,personal services,personal services,6300,4.5,16,True,True
+CR-109,Freelancer,Jurf 2,personal services,professional services,3200,4.9,3,True,True
+CR-110,Freelancer,Mushairif,retail,personal services,2100,4.3,4,True,True
+CR-111,Freelancer,Mohammed Bin Zayed 2,personal services,trading,3200,4.4,8,True,True
+CR-112,Freelancer,Rashideya 1,tech,trading,3400,4.8,4,True,True
+CR-113,Freelancer,Mowaihat 1,retail,tourism,3400,4.1,8,True,True
+CR-114,Freelancer,Rashideya 1,retail,professional services,3600,4.4,4,True,True
+CR-115,Agency,Al Helio 1,retail,retail,5100,4.1,20,True,True
+CR-116,Freelancer,Yasmeen,tourism,retail,2300,4.5,7,True,True
+CR-117,Freelancer,Humaideya 1,construction,personal services,3100,5.0,3,True,True
+CR-118,Freelancer,Mowaihat 1,F&B,real estate,1400,4.3,3,True,True
+CR-119,Freelancer,Mowaihat 2,retail,trading,2600,4.6,6,True,True
+CR-120,Freelancer,Humaideya 1,retail,retail,2000,4.2,4,True,True
+CR-121,Freelancer,Bahya,personal services,tech,2200,4.2,6,True,True
+CR-122,Freelancer,Rashideya 2,F&B,personal services,1100,4.1,6,True,True
+CR-123,Freelancer,Ragayeb 1,personal services,retail,1700,4.9,7,True,True
+CR-124,Freelancer,Ajman Industrial 1,retail,construction,2400,5.0,4,True,True
+CR-125,Freelancer,Zahya,tourism,tech,3200,4.6,4,True,True
+CR-126,Agency,Nuaimeya 1,professional services,retail,6300,4.3,17,True,True
+CR-127,Agency,Nuaimeya 1,retail,trading,7300,4.7,17,True,True
+CR-128,Agency,Jurf 2,real estate,F&B,8000,4.4,16,True,True
+CR-129,Freelancer,Nuaimeya 1,personal services,F&B,1800,4.7,8,True,True
+CR-130,Freelancer,Jurf 2,personal services,tourism,2800,4.6,6,True,True
+CR-131,Freelancer,Nuaimeya 2,auto services,construction,2300,4.6,7,True,True
+CR-132,Freelancer,Nuaimeya 3,retail,F&B,2900,4.7,7,True,True
+CR-133,Freelancer,Tallah 1,trading,trading,3900,4.3,7,True,True
+CR-134,Freelancer,Nakheel 2,trading,real estate,2400,4.4,8,True,True
+CR-135,Freelancer,Nuaimeya 2,tech,F&B,1300,4.0,5,True,True
+CR-136,Freelancer,Rawdha 3,F&B,real estate,1800,4.4,8,True,True
+CR-137,Agency,Liwara 1,tech,personal services,5200,4.1,14,True,True
+CR-138,Freelancer,Ajman Industrial 1,real estate,real estate,1500,4.5,5,True,True
+CR-139,Freelancer,Mushairif,professional services,professional services,3500,4.2,7,True,True
+CR-140,Freelancer,Rashideya 1,retail,tech,2600,4.5,5,True,True
+CR-141,Freelancer,Yasmeen,construction,manufacturing,1200,4.6,6,True,True
+CR-142,Freelancer,Nuaimeya 3,trading,retail,3000,4.1,5,True,True
+CR-143,Freelancer,Mowaihat 2,F&B,auto services,3500,4.3,5,True,True
+CR-144,Freelancer,Mowaihat 3,tourism,personal services,2200,4.2,4,True,True
+CR-145,Freelancer,Rawdha 2,F&B,professional services,1900,4.7,6,True,True
+CR-146,Freelancer,Rashideya 1,auto services,trading,2200,5.0,8,True,True
+CR-147,Freelancer,Aamra,trading,manufacturing,2700,4.8,5,True,True
+CR-148,Freelancer,Mowaihat 2,manufacturing,tourism,3000,4.4,3,True,True
+CR-149,Agency,Mushairif,real estate,personal services,6500,4.9,18,True,True
+CR-150,Freelancer,Nuaimeya 2,tech,construction,3400,4.0,4,True,True
+CR-151,Freelancer,Nuaimeya 1,tech,construction,3400,4.9,7,True,True
+CR-152,Freelancer,Humaideya 1,real estate,tourism,3500,4.3,6,True,True
+CR-153,Agency,Rashideya 3,construction,construction,3100,3.7,21,True,True
+CR-154,Agency,Rumaila 2,real estate,personal services,7000,5.0,10,True,True
+CR-155,Freelancer,Rashideya 2,tourism,tourism,2300,5.0,3,True,True
+CR-156,Agency,Nuaimeya 2,real estate,professional services,5400,4.2,19,True,True
+CR-157,Freelancer,Mohammed Bin Zayed 1,F&B,personal services,2100,4.6,4,True,True
+CR-158,Freelancer,Rawdha 2,professional services,personal services,3200,4.4,8,True,True
+CR-159,Freelancer,Nuaimeya 1,tech,personal services,2200,4.5,8,True,True
+CR-160,Agency,Aamra,personal services,personal services,3800,4.1,21,True,True
+CR-161,Freelancer,Nuaimeya 1,auto services,retail,3600,4.3,8,True,True
+CR-162,Freelancer,Rashideya 1,professional services,F&B,3000,4.6,6,True,True
+CR-163,Freelancer,Humaideya 1,tourism,professional services,2600,4.6,4,True,True
+CR-164,Freelancer,Jurf 1,F&B,real estate,3200,4.9,3,True,True
+CR-165,Freelancer,Nuaimeya 3,retail,tech,3300,4.5,8,True,True
+CR-166,Freelancer,Ajman Industrial 1,retail,professional services,2700,5.0,8,True,True
+CR-167,Agency,Nuaimeya 3,tourism,retail,4400,4.3,18,True,True
+CR-168,Freelancer,Rashideya 3,personal services,retail,1900,4.6,3,True,True
+CR-169,Agency,Jurf Industrial 2,trading,tourism,6000,3.9,21,True,True
+CR-170,Freelancer,Nuaimeya 2,tourism,tourism,1700,4.1,5,True,True
+CR-171,Freelancer,Ajman Industrial 1,trading,professional services,2600,4.9,7,True,True
+CR-172,Agency,Rashideya 2,tech,tourism,9100,4.2,14,True,True
+CR-173,Freelancer,Rashideya 2,auto services,tourism,2100,4.7,6,True,True
+CR-174,Freelancer,Nuaimeya 1,personal services,tech,1500,4.5,8,True,True
+CR-175,Freelancer,Aamra,F&B,retail,4100,4.2,4,True,True
+CR-176,Freelancer,Rawdha 2,professional services,F&B,2100,4.4,8,True,True
+CR-177,Freelancer,Yasmeen,retail,tech,1500,4.3,8,True,True
+CR-178,Freelancer,Humaideya 1,retail,professional services,2600,4.4,7,True,True
+CR-179,Agency,Zahya,professional services,tourism,6400,4.7,24,True,True
+CR-180,Freelancer,Jurf 1,tech,tech,1900,4.7,4,True,True
+CR-181,Freelancer,Rashideya 1,retail,F&B,3100,4.3,4,True,True
+CR-182,Agency,Humaideya 1,tourism,personal services,6000,4.2,19,True,True
+CR-183,Freelancer,Mowaihat 3,construction,real estate,1700,4.6,7,True,True
+CR-184,Freelancer,Mushairif,tourism,retail,2600,4.5,5,True,True
+CR-185,Freelancer,Rashideya 1,tech,tourism,3100,4.8,4,True,True
+CR-186,Agency,Aamra,retail,real estate,6100,5.0,20,True,True
+CR-187,Freelancer,Jurf Industrial 3,auto services,real estate,2700,4.8,4,True,True
+CR-188,Agency,Bahya,F&B,retail,6600,4.5,13,True,True
+CR-189,Freelancer,Nuaimeya 1,real estate,tech,4700,4.4,3,True,True
+CR-190,Agency,Nuaimeya 1,F&B,F&B,8200,4.2,20,True,True
+CR-191,Freelancer,Nuaimeya 1,real estate,construction,3600,4.2,4,True,True
+CR-192,Freelancer,Nuaimeya 3,auto services,retail,2400,4.2,4,True,True
+CR-193,Agency,Jurf Industrial 3,F&B,retail,5800,4.4,15,True,True
+CR-194,Freelancer,Nuaimeya 3,tourism,retail,3000,4.4,4,True,True
+CR-195,Freelancer,Ajman Industrial 2,professional services,manufacturing,3200,4.7,6,True,True
+CR-196,Freelancer,Rashideya 3,real estate,tourism,3500,4.4,3,True,True
+CR-197,Agency,Bahya,tourism,real estate,7800,4.4,11,True,True
+CR-198,Freelancer,Jurf Industrial 2,tech,manufacturing,2000,4.1,5,True,True
+CR-199,Freelancer,Rashideya 1,personal services,construction,2000,5.0,5,True,True
+CR-200,Freelancer,Mushairif,auto services,F&B,2900,4.7,3,True,True
+CR-201,Freelancer,Humaideya 1,tourism,real estate,2900,5.0,4,True,True
+CR-202,Freelancer,Rashideya 2,professional services,real estate,3600,4.7,8,True,True
+CR-203,Freelancer,Nuaimeya 3,tech,tech,2800,4.9,5,True,True
+CR-204,Freelancer,Nuaimeya 1,professional services,tourism,3300,4.4,7,True,True
+CR-205,Freelancer,Nuaimeya 3,tourism,tourism,3700,4.7,3,True,True
+CR-206,Agency,Jurf Industrial 3,professional services,F&B,7200,5.0,17,True,True
+CR-207,Freelancer,Humaideya 1,tech,F&B,1300,4.1,4,True,True
+CR-208,Freelancer,Nuaimeya 2,personal services,real estate,1500,4.9,8,True,True
+CR-209,Freelancer,Zorah,F&B,F&B,1300,5.0,5,True,True
+CR-210,Freelancer,Aamra,construction,retail,3700,4.6,7,True,True
+CR-211,Freelancer,Tallah 1,tech,tourism,1800,4.7,8,True,True
+CR-212,Freelancer,Al Helio 2,retail,F&B,3400,4.9,4,True,True
+CR-213,Freelancer,Jurf 1,professional services,F&B,2900,4.3,4,True,True
+CR-214,Freelancer,Rashideya 2,tourism,trading,3800,4.6,8,True,True
+CR-215,Agency,Humaideya 1,personal services,personal services,4000,4.2,16,True,True
+CR-216,Freelancer,Jurf Industrial 2,auto services,retail,2400,4.3,8,True,True
+CR-217,Freelancer,Rawdha 1,personal services,tech,2300,4.3,3,True,True
+CR-218,Freelancer,Humaideya 1,tourism,F&B,2500,4.5,6,True,True
+CR-219,Freelancer,Safia,tourism,retail,2600,4.5,3,True,True
+CR-220,Freelancer,Mohammed Bin Zayed 2,F&B,construction,2000,4.6,5,True,True
